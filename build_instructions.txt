@@ -1,0 +1,8 @@
+# Сборка APK
+cd /home/alexandr/prj/android/SurfaceViewVideoPlayer && /opt/gradle/gradle-8.5/bin/gradle assembleDebug
+
+# Очистка проекта
+cd /home/alexandr/prj/android/SurfaceViewVideoPlayer && /opt/gradle/gradle-8.5/bin/gradle clean
+
+# Готовый APK находится здесь:
+/home/alexandr/prj/android/SurfaceViewVideoPlayer/app/build/outputs/apk/debug/

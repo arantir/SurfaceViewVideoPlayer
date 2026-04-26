@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.surfaceviewvideoplayer.app-merged_res-38:/layout_activity_main.xml.flat",
+        "source": "com.example.surfaceviewvideoplayer.app-main-40:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/alexandr/.gradle/daemon/8.5/com.example.surfaceviewvideoplayer.app-merged_res-38:/layout_activity_main.xml.flat",
+        "source": "/home/alexandr/.gradle/daemon/8.5/com.example.surfaceviewvideoplayer.app-main-40:/layout/activity_main.xml"
+    }
+]

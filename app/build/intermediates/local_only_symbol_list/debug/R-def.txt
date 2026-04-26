@@ -1,0 +1,10 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+id debugText
+id progressBar
+id surfaceView
+layout activity_main
+string app_name
+style AppTheme
